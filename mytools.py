@@ -3,6 +3,13 @@ import matplotlib.pyplot as plt
 plt.rcParams["front.sans-serif"] = ["SimHei"]  # 设置字体
 
 
+
+def 读取SPSS数据文件(文件位置及名称, 是否保留标签值: bool):
+    数据表, metadata = pyreadstat.read_sav(
+        文件位置及名称, apply_value_formats=是否保留标签值, formats_as_ordered_category=True)
+    return 数据表
+
+
 def 有序类别变量描述统计表(表名，变量名):
     result = 表名[变量名].value_counts(sort=False)
     描述统计图 = pd.DataFrame(result)
