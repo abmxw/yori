@@ -2,7 +2,145 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
-  "elements": [],
+  "elements": [
+    {
+      "id": "6wNhNASum_Yx9O3W_DkCf",
+      "type": "freedraw",
+      "x": 413.5,
+      "y": 79.5,
+      "width": 0.0001,
+      "height": 0.0001,
+      "angle": 0,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 849258436,
+      "version": 11,
+      "versionNonce": 2003389308,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1702912445022,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0.0001,
+        0.0001
+      ]
+    },
+    {
+      "id": "ReJO5oP4djY0cVBPYcNgV",
+      "type": "freedraw",
+      "x": 413.5,
+      "y": 79.5,
+      "width": 0.0001,
+      "height": 0.0001,
+      "angle": 0,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1982664260,
+      "version": 11,
+      "versionNonce": 121649732,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1702912445022,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0.0001,
+        0.0001
+      ]
+    },
+    {
+      "id": "mqvTvCQBIs5TaTNOQjnP9",
+      "type": "freedraw",
+      "x": 413.5,
+      "y": 79.5,
+      "width": 1.5,
+      "height": 5.5,
+      "angle": 0,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 831980740,
+      "version": 14,
+      "versionNonce": 933919740,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1702912445022,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.5,
+          4
+        ],
+        [
+          1.5,
+          5.5
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        1.5,
+        5.5
+      ]
+    }
+  ],
   "appState": {
     "gridSize": null,
     "viewBackgroundColor": "#ffffff"
